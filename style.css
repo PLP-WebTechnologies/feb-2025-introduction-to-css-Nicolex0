@@ -1,0 +1,10 @@
+/* Styling the body for centering the card */
+body {
+    background-color: #f0f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif; /* Default font */
+}
