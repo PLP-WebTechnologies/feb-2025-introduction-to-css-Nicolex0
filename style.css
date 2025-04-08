@@ -20,3 +20,12 @@ body {
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+/* ID selector for the profile picture */
+#profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Makes the image circular */
+    border: 3px solid #2ecc71;
+    margin-bottom: 15px;
+}
