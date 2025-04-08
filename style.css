@@ -29,3 +29,11 @@ body {
     border: 3px solid #2ecc71;
     margin-bottom: 15px;
 }
+
+/* Class selector for the name */
+.name {
+    color: #3498db;
+    font-family: 'Georgia', serif; /* Different font */
+    font-size: 28px;
+    margin: 10px 0;
+}
